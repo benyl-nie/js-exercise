@@ -1,0 +1,24 @@
+{
+  "name": "js-exercise",
+  "version": "1.0.0",
+  "description": "js日常练习题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benyl-nie/js-exercise.git"
+  },
+  "keywords": [
+    "js",
+    "算法",
+    "练习"
+  ],
+  "author": "benyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benyl-nie/js-exercise/issues"
+  },
+  "homepage": "https://github.com/benyl-nie/js-exercise#readme"
+}
